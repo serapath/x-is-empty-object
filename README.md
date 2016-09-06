@@ -19,3 +19,11 @@ x is either `{}` or `new Object()`
   xEmptyObject(function(){}) // => false
   xEmptyObject(new RegExp) // => false
 ```
+
+# related
+* [x-is](https://www.npmjs.com/package/x-is)
+* [x-is-array](https://www.npmjs.com/package/x-is-array)
+* [x-is-object](https://www.npmjs.com/package/x-is-object)
+* [x-is-string](https://www.npmjs.com/package/x-is-string)
+* [x-is-function](https://www.npmjs.com/package/x-is-function)
+* [x-is-ducktype-array](https://www.npmjs.com/package/x-is-ducktype-array)

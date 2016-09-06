@@ -1,6 +1,6 @@
 {
   "name": "x-is-empty-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "x is either {} or new Object()",
   "main": "index.js",
   "scripts": {
