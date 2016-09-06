@@ -1,0 +1,22 @@
+{
+  "name": "x-is-empty-object",
+  "version": "1.0.0",
+  "description": "x is either {} or new Object()",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serapath/x-is-empty-object.git"
+  },
+  "author": "@serapath",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/serapath/x-is-empty-object/issues"
+  },
+  "homepage": "https://github.com/serapath/x-is-empty-object#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
